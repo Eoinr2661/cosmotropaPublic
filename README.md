@@ -1,6 +1,6 @@
 # Welcome to my Rocket Tracking Application #
 
-### 🧭 Problem Statement
+### 🧭 Simplifying Rocket Recovery and Tracking
 
 Rocket enthusiasts often face challenges when recovering their rockets after launch, as existing
 solutions tend to be complex, inaccessible, costly, and lack integrated mapping features. 
