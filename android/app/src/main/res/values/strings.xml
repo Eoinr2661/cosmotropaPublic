@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">pk.eyJ1IjoiZW9pbnIyNjYxIiwiYSI6ImNseHZ0ZmI4dzIwMG0ybHF3amM5NjJqMDkifQ.jl94WwD_PXCvkonQnK-rNQ</string>
+    <string name="app_name">cosmotropa</string>
+</resources>
