@@ -17,11 +17,9 @@ data visualisation.
 ### 🚀 Soviet Theme
 
 I chose a Soviet theme for this app to commemorate the 50th anniversary of the Soyuz-16 flight (Dec 2, 1974).
-This flight was significant as it marked the beginning of the first international space mission, 
-giving the world a glimmer of hope for peaceful collaboration at a time of great global tension. 
+It marked the first example of scientific collaboration in space between the USA and USSR. 
 
-The Apollo-Soyuz Test Project, beginning with Soyuz-16, symbolised a pivotal moment in world history,
-where rivals united for the sake of scientific progress and humanity's shared future. 
+I had also planned on implementing a NASA theme, allowing users to switch between between them, but time constraints didn't allow for this.
 
 ### 📺 Demo Video
 
