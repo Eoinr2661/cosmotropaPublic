@@ -48,7 +48,7 @@ This application can:
 - 📡 Go into the app and connect using the Bluetooth/devices tab.
 - 📶 Ensure you have a good connection strength (tracked satellites) – this can be done via the raw stream in the Bluetooth tab, or the stats tab under "connection strength."
 - ⚙️ Configure your flight recording from the "home" tab if you wish to record to the database.
-- 🗺️ Observe your rocket's flight using the map screen.
+- 🗺️ Observe your rocket's flight using the map screen and review data readouts on the stats screen.
 - 🚀 Find your rocket, and be sure to stop the recording from the home tab if you had that running!
 
 ### 📝 License
